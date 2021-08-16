@@ -17,6 +17,10 @@
  "start": "node index.js",
 	
   },
+	 "keywords": [
+    "node",
+    "heroku"
+  ],
   "author": "",
   "license": "ISC"
 }
